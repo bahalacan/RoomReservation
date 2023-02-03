@@ -1,13 +1,5 @@
 
 # Socket Programming - HTTP – Based Room Reservation
-### CSE4074 - Computer Networks - Term Project
-
-### Authors:
-
-- Bahadır ALACAN (150118042)
-- Hasan Fatih BAŞAR (150118015)
-- Emine ÇIĞ (150118012)
-
 ### Instructions to run the server codes:
 
 1. Open three separate terminal windows
